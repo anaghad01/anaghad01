@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaghad01&label=Profile%20views&color=0e75b6&style=flat" alt="anaghad01" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://anaghad01.github.io/](https://anaghad01.github.io/)
+- 👨‍💻 All of my projects are available at [https://anaghad01.github.io/](Personal Website)
 
 - 📫 How to reach me **ardangle@wpi.edu**
 
-- 📄 Know about my experiences [https://anaghad01.github.io/Anagha_files/anagha_dangle_resume.pdf](https://anaghad01.github.io/Anagha_files/anagha_dangle_resume.pdf)
+- 📄 Know about my experiences [https://anaghad01.github.io/Anagha_files/anagha_dangle_resume.pdf](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
