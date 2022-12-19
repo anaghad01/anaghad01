@@ -6,9 +6,9 @@
 - 👨‍💻 All of my projects are available at [https://anaghad01.github.io/](https://anaghad01.github.io/)
 
 - 📫 How to reach me **ardangle@wpi.edu**
-
+<!-- 
 - 📄 Know about my experiences [https://anaghad01.github.io/Anagha_files/anagha_dangle_resume.pdf](https://anaghad01.github.io/Anagha_files/anagha_dangle_resume.pdf)
-
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anagha-dangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anagha-dangle" height="30" width="40" /></a>
